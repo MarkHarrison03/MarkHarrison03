@@ -1,14 +1,14 @@
 # Mark Harrison
 Big time nerd, dumb idiot and Traditional Irish Music enthusiast.
 
-Soon to be Software Engineering Intern @ Intel
+Software Engineering Intern @ Intel
 
 # Proficient in
 
-Java, C++, C, Python
+Java, C++, C, Python, Go, K8s, Docker, Node, Express, MongoDB
 
 # Education
-2nd year Computer Systems Student @ UL, 3.92 QCA.
+3rd year Computer Systems Student @ UL, 4.0 QCA.
 
 Castletroy College Secondary School
 
