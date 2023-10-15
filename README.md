@@ -5,7 +5,7 @@ Software Engineering Intern @ Intel
 
 # Proficient in
 
-Java, C++, C, Python, Go, K8s, Docker, Node, Express, MongoDB
+Java, C++, C, Python, Go, K8s, Docker, Node, Express, MongoDB, OPA Gatekeeper, Rego 
 
 # Education
 3rd year Computer Systems Student @ UL, 4.0 QCA.
