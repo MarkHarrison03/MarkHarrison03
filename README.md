@@ -1,11 +1,10 @@
 # Mark Harrison
 Big time nerd, dumb idiot and Traditional Irish Music enthusiast.
 
-Software Engineering Intern @ Intel
-
 # Proficient in
 
-Java, C++, C, Python, Go, K8s, Docker, Node, Express, MongoDB, OPA Gatekeeper, Rego 
+Java, C++, C, Python, Go, K8s, Docker, Node, Express, MongoDB, OPA Gatekeeper, Rego,
+React, Javascript, Typescript 
 
 # Education
 3rd year Computer Systems Student @ UL, 4.0 QCA.
