@@ -1,5 +1,5 @@
 # Mark Harrison
-Big time nerd, dumb idiot and Traditional Irish Music enthusiast.
+Computer Systems and Traditional Irish Music enthusiast.
 
 # Proficient in
 
@@ -16,4 +16,3 @@ Castleconnell National School
 
 
 
-![EeKK07dVoAIi21U](https://user-images.githubusercontent.com/96838167/227238041-a42c3ff8-22f8-431e-a712-63a0038d8f9a.png)
